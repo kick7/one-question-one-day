@@ -1,0 +1,4 @@
+题目链接：https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/
+题解：
+	1.滑动窗口+需要代码优化或则重构
+	2.dp+待完善
