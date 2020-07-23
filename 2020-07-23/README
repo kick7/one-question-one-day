@@ -1,1 +1,2 @@
 题目连接：https://leetcode-cn.com/problems/minimum-path-sum/
+题解：二维占位dp，dp[i][j]=min(dp[i-1][j],dp[i][j-1])+num[i][j]
