@@ -1,0 +1,2 @@
+题目链接：https://leetcode-cn.com/problems/split-array-largest-sum/
+题解：这里的思想是二分最大值，最大值的范围在max(nums),sum(nums)之间，然后去测试在每一个值得范围下，进行分组，看能不能满足分组得次数
