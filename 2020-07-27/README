@@ -1,0 +1,2 @@
+题目连接：https://leetcode-cn.com/problems/is-subsequence/
+题解：水题，但是因为自己一开始的时候，没考虑到字符串回重复的情况，写的很麻烦，直接双指针的思想，简单粗暴
