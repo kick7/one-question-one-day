@@ -1,0 +1,2 @@
+题目链接：https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists/
+题解：滑动窗口+维护最小区间，滑动窗口的想法很好
