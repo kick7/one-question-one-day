@@ -1,0 +1,2 @@
+题目链接：https://leetcode-cn.com/problems/count-binary-substrings/
+题解：有趣的思路，自己本来打算使用暴力的滑动窗口，但是发现优化的不行，还需要进一步考虑
